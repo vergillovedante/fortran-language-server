@@ -1,0 +1,1 @@
+hello！ there is some problems in my vs code with fortran enviroment complement ,my vs code always shows that terminint with python , that is because I used to use vs code foy python programing, while now, It has conflicts with my fortran 'launch.json' and 'tasks.json'
